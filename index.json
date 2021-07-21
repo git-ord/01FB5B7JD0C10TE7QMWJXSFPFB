@@ -18,8 +18,12 @@
     "amount": 2373,
     "currency": "USD"
   },
-  "discounts": [],
-  "taxes": [],
+  "discounts": [
+
+  ],
+  "taxes": [
+
+  ],
   "shipping": {
     "address": null,
     "method": null,
